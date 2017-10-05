@@ -11,3 +11,7 @@ Here are the lectures of the course for this section...
 
 ### 1 Introduction to Section 2
 + Michael gives an overview, showing you what is coming up in the section ahead
+
+### 2 The Outliner Getting Your Naming Right
++ You will understand the importance of naming throughout your project
++ A core skill to get right early on
