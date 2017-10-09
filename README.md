@@ -19,17 +19,25 @@ Here are the lectures of the course for this section...
 + You will understand the importance of naming throughout your project
 + A core skill to get right early on
 
+### 2a Deletion Options 
++ How to use the various deletion options
++ Creation but destruction
+
 ### 3 Basic Selection
 + Border Selection (B)
 + Circle Selection (C)
 
-### Selecting Through Objects
+### Speeding Up Your Selecting
 + Limit selection to visible
 + Wireframe viewport shading
++ Inverting a selection
++ Selecting more/less
 
 ### Advanced Section Methods
 + Edge loops
 + Face loops
++ Checker select
++
 
 ### Basic Topology
 + All things are not created equal
