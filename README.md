@@ -36,25 +36,25 @@ Here are the lectures of the course for this section...
 + Not all things are created equal
 + Sometimes it doesn't matter
 + Sometimes it is critical to modelling
-+ Smooth and flat shading
 
-### Advanced Section Methods
+### 6 Advanced Section Methods
 + Edge loops
 + Face loops
 + Checker select
 + Inverting a selection
 
-### Proportional Editing
+### 7 Proportional Editing
 + Really Useful when modelling
 + Confusing if left on or influence too large
 
-### Origins
-### 3d Cursor And Pivot Points
+### Materials And Shading
+
+### Origins, 3d Cursor And Pivot Points
 ### Transforms and Applying Them
 ### Parenting
 ### What Is A Rig
 ### Armatures - A Bone Based Rig
-### Materials And Shading
+
 ### Linked Selection
 ### What To Do Where And Why
 ### Screens - Blender's Workspaces
