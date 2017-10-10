@@ -32,16 +32,17 @@ Here are the lectures of the course for this section...
 + Wireframe viewport shading
 + Selecting more/less
 
+### 5 What Is Topology
++ Not all things are created equal
++ Sometimes it doesn't matter
++ Sometimes it is critical to modelling
++ Smooth and flat shading
+
 ### Advanced Section Methods
 + Edge loops
 + Face loops
 + Checker select
 + Inverting a selection
-
-### Basic Topology
-+ All things are not created equal
-+ Sometimes it doesn't matter
-+ Sometimes it is critical to modelling
 
 ### Proportional Editing
 + Really Useful when modelling
