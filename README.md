@@ -47,8 +47,14 @@ Here are the lectures of the course for this section...
 + Really Useful when modelling
 + Confusing if left on or influence too large
 
-### Materials And Shading
+### 8 Materials And Shading
++ What is a material
++ Materials are render engine specific
++ Often they will have to be re setup
++ Material slots
++ Fake Users
 
+### What To Do Where And Why
 ### Origins, 3d Cursor And Pivot Points
 ### Transforms and Applying Them
 ### Parenting
@@ -56,7 +62,7 @@ Here are the lectures of the course for this section...
 ### Armatures - A Bone Based Rig
 
 ### Linked Selection
-### What To Do Where And Why
+
 ### Screens - Blender's Workspaces
 ### Advance Layout Controls
 ### Constraints - Limiting Movement
