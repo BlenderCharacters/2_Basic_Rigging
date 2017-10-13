@@ -60,7 +60,10 @@ Here are the lectures of the course for this section...
 + Understand the properties of an object are the object origin's properties
 + The origin affects physics calculations
 
-
+### 10 Transforms and Applying Them
++ Quick Tip
++ Edit in Edit Mode
++ General Rule, apply scale and rotate transforms
 
 
 ### Parenting
