@@ -54,14 +54,26 @@ Here are the lectures of the course for this section...
 + Material slots
 + Fake Users
 
-### What To Do Where And Why
-### Origins, 3d Cursor And Pivot Points
-### Transforms and Applying Them
+### 9 Origins, 3d Cursor And Pivot Points
++ The location of the origin point is important when translating, rotating or scaling an object
++ Take control of how object transform
++ Understand the properties of an object are the object origin's properties
++ The origin affects physics calculations
+
+
+
+
 ### Parenting
 ### What Is A Rig
 ### Armatures - A Bone Based Rig
+### Spending Your Time Wisely
 
-### Linked Selection
+### Advanced Linked Selection
+
+
+
+
+
 
 ### Screens - Blender's Workspaces
 ### Advance Layout Controls
