@@ -40,12 +40,12 @@ Here are the lectures of the course for this section...
 ### 6 Advanced Section Methods
 + Edge loops
 + Face loops
-+ Checker select
-+ Inverting a selection
++ (Updated 19/10/2017)
 
 ### 7 Proportional Editing
 + Really Useful when modelling
 + Confusing if left on or influence too large
++ (Updated 20/10/2017)
 
 ### 8 Materials And Shading
 + What is a material
@@ -66,18 +66,18 @@ Here are the lectures of the course for this section...
 + General Rule, apply scale and rotate transforms
 
 
-### Parenting
+### 11 Parenting and Empties
++ What is an Empty?
++ What is parenting?
++ How to set a parent
++ Parent and child relationships
++ Inheritance
+
 ### What Is A Rig
 ### Armatures - A Bone Based Rig
 ### Spending Your Time Wisely
 
 ### Advanced Linked Selection
-
-
-
-
-
-
 ### Screens - Blender's Workspaces
 ### Advance Layout Controls
 ### Constraints - Limiting Movement
@@ -89,3 +89,8 @@ Here are the lectures of the course for this section...
 ### EOSC 3 Short Eye Animations
 ### Section 2 Wrap Up
 ### Pose Mode And Rest Mode
+
+
+8a Fun With Selections and Mat
++ Checker select
++ Inverting a selection
