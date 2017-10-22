@@ -69,13 +69,15 @@ Here are the lectures of the course for this section...
 + Edit in Edit Mode
 + General Rule, apply scale and rotate transforms
 
-
-### 11 Parenting and Empties
-+ What is an Empty?
+### 11 Introduction To Parenting
 + What is parenting?
 + How to set a parent
 + Parent and child relationships
 + Inheritance
+
+### 12 Empties
++ What is an empty?
++ Why use an empty?
 
 ### What Is A Rig
 ### Armatures - A Bone Based Rig
