@@ -49,14 +49,14 @@ Here are the lectures of the course for this section...
 + (Updated 20/10/2017)
 
 ### 8 Materials And Shading
-+ Flat and smooth Shading
++ Flat and smooth shading
 + Different shading objects in object and edit mode
 + What is a material
 + Materials are render engine specific
 + Often they will have to be re setup
 + Simple material creation
 + Material slots and reusing materials
-+ (Updated 20/10/2017)
++ (Updated 22/10/2017)
 
 ### 9 Origins, 3d Cursor And Pivot Points
 + The location of the origin point is important when translating, rotating or scaling an object
