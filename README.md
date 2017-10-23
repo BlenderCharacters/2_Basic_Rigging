@@ -38,7 +38,7 @@ Here are the lectures of the course for this section...
 + Sometimes it is critical to modelling
 + (Updated 22/10/2017)
 
-### 6 Advanced Section Methods
+### 6 Advanced Selection Methods
 + Edge loops
 + Face loops
 + (Updated 19/10/2017)
@@ -75,19 +75,29 @@ Here are the lectures of the course for this section...
 + Parent and child relationships
 + Inheritance
 
-### 12 Empties
+### Empties
 + What is an empty?
 + Why use an empty?
++ Empties are a null object, however have many uses
++ No volume or surface means they don't appear in rendering
++ What they look like is just for visuals
++ They can be used as an organisational parent
++ Placeholders
++ Used for rigging controls and other properties
 
-### What Is A Rig
+
+### Constraints - Tracking
+
+
 ### Armatures - A Bone Based Rig
-### Spending Your Time Wisely
+
+
 
 ### Advanced Linked Selection
 ### Screens - Blender's Workspaces
 ### Advance Layout Controls
 ### Constraints - Limiting Movement
-### Constraints - Tracking
+
 ### The Dope Sheet - When Keyframes Happen
 ### The Graph Editor - How Keyframes Happen
 ### Coordinate systems
