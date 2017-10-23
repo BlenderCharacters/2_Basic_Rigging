@@ -75,7 +75,7 @@ Here are the lectures of the course for this section...
 + Parent and child relationships
 + Inheritance
 
-### Empties
+### 12 Empties
 + What is an empty?
 + Why use an empty?
 + Empties are a null object, however have many uses
@@ -85,6 +85,13 @@ Here are the lectures of the course for this section...
 + Placeholders
 + Used for rigging controls and other properties
 
+### 13 What Is A Rig?
++ A character model on its own can't be animated
++ A series of controls external to the model need to be created
++ THIS is Rigging!
++ Any static 3d model needs to be bent, twisted, expanded moved translated etc.
++ We already have the fundamentals of a rig
++ Rigging is a whole new discipline for many and many mistakes and reties will have to be done to get to an end result you want.
 
 ### Constraints - Tracking
 
