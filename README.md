@@ -93,10 +93,16 @@ Here are the lectures of the course for this section...
 + We already have the fundamentals of a rig
 + Rigging is a whole new discipline for many and many mistakes and reties will have to be done to get to an end result you want.
 
-### Constraints - Tracking
+### 14 Armatures - A Bone Based Rig
++ Create an armature
++ Identify parts of a bone
++ Constraints - Tracking
++ Bona based is essential for game engines otherwise the animation won't come across.
+
+###
 
 
-### Armatures - A Bone Based Rig
+
 
 
 
