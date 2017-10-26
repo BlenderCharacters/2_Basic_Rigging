@@ -104,7 +104,7 @@ Here are the lectures of the course for this section...
 + Doesn't stop parents transforms
 + Learn about constraining movement
 
-### 16 Tracking Constraint
+### 16 The Track To Constraint
 + Flesh out the rig controlling the eye bones
 + Use the track to constraint
 
