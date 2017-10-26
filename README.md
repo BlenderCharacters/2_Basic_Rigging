@@ -96,15 +96,19 @@ Here are the lectures of the course for this section...
 ### 14 Armatures - A Bone Based Rig
 + Create an armature
 + Identify parts of a bone
-+ Constraints - Tracking
 + Bona based is essential for game engines otherwise the animation won't come across.
 
-###
+### 15 Introduction To Constraints
++ Parenting is a form of constraint
++ You can lock transforms
++ Doesn't stop parents transforms
++ Learn about constraining movement
 
+### 16 Tracking Constraint
++ Flesh out the rig controlling the eye bones
++ Use the track to constraint
 
-
-
-
+### Exporting an FBX For Unity
 
 ### Advanced Linked Selection
 ### Screens - Blender's Workspaces
