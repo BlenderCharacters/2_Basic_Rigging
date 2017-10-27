@@ -108,13 +108,20 @@ Here are the lectures of the course for this section...
 + Flesh out the rig controlling the eye bones
 + Use the track to constraint
 
+### 17 Advanced Layout Controls
++ Collapsing windows
++ Create new area windows
++ Swapping areas
++ Getting back default layout
++ Saving the Start-up File
++ Screens - Blender's Workspaces
+
+
+
+
+
+
 ### Exporting an FBX For Unity
-
-### Advanced Linked Selection
-### Screens - Blender's Workspaces
-### Advance Layout Controls
-### Constraints - Limiting Movement
-
 ### The Dope Sheet - When Keyframes Happen
 ### The Graph Editor - How Keyframes Happen
 ### Coordinate systems
@@ -123,7 +130,7 @@ Here are the lectures of the course for this section...
 ### Section 2 Wrap Up
 ### Pose Mode And Rest Mode
 
-
-8a Fun With Selections and Mat
+### Advanced Linked Selection
+### Fun With Selections and Mat
 + Checker select
 + Inverting a selection
