@@ -116,17 +116,25 @@ Here are the lectures of the course for this section...
 + Saving the Start-up File
 + Screens - Blender's Workspaces
 
-### 18 STransferring Data Between Blender Files
+### 18 Transferring Data Between Blender Files
 + Learn how to transfer settings from one blend file to another
 + Difference between linking and appending
 + https://docs.blender.org/manual/en/dev/data_system/data_blocks.html
 
+### 19 The Dope Sheet - When Keyframes Happen
++ Overview of the dope sheet and what it is used for
++ Different views of the Dope Sheet
++ Expanding to view individual keyframes
++ Using the dope sheet for more precise control over when things happen
 
-
-
-### Exporting an FBX For Unity
-### The Dope Sheet - When Keyframes Happen
 ### The Graph Editor - How Keyframes Happen
+
+
+### Using Unity's Built In Blender Reader
++ Rapid Feedback
++ Refreshes after each Blender save and switch back focus
++ Recommended for testing and individual small projects
+
 ### Coordinate systems
 ### Exporting an FBX For Unity
 ### EOSC 3 Short Eye Animations
