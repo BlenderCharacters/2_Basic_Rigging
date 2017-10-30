@@ -127,7 +127,11 @@ Here are the lectures of the course for this section...
 + Expanding to view individual keyframes
 + Using the dope sheet for more precise control over when things happen
 
-### The Graph Editor - How Keyframes Happen
+### 20 The Graph Editor - How Keyframes Happen
++ Overview of the graph editor
++ Control points and handles
++ Changing handle types
+
 
 
 ### Using Unity's Built In Blender Reader
