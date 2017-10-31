@@ -132,19 +132,20 @@ Here are the lectures of the course for this section...
 + Control points and handles
 + Changing handle types
 
+### 21 Creating Multiple Animations
++ On one timetime and Tag
++ Multiple actions
++ Offsetting the animation to ensure no pausing when looping.
 
 
-### Using Unity's Built In Blender Reader
-+ Rapid Feedback
-+ Refreshes after each Blender save and switch back focus
-+ Recommended for testing and individual small projects
-
-### Coordinate systems
 ### Exporting an FBX For Unity
 ### EOSC 3 Short Eye Animations
 ### Section 2 Wrap Up
 ### Pose Mode And Rest Mode
 
+***Future Lecture/ In another section?
+
+### Coordinate systems
 ### Advanced Linked Selection
 ### Fun With Selections and Mat
 + Checker select
