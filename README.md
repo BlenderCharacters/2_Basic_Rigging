@@ -159,3 +159,8 @@ Here are the lectures of the course for this section...
 + End Of Section Challenge
 + 3 Short Eye Animations
 + Exported As FBX and test!
+
+### 26 Section 2 Wrap Up
++ Wow lots covered
++ Looking forward to seeing your work!
++ Try Applying your knowledge to other simple movements
