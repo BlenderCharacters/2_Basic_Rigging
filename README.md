@@ -142,16 +142,31 @@ Here are the lectures of the course for this section...
 + Learn how to make a bone look like another options
 + Make a rig that will work externally in multiple engines
 
+### 23 Exporting From Blender For Unity
++ Various options for exporting
++ Sometimes experimentation is required
++ Reading through the various options
++ Ensure you only export what you need
++ FBX is generally accepted by all game engines and other 3D Packages
++ FBX contains the mesh objects
++ FBX can export material name and assignment
++ FBX can export armature bone data and mesh weighting
 
-### Exporting an FBX For Unity
+### Exporting From Blender For Unreal
++ Naming issues prevent Unreal from opening our file
+
+
 ### EOSC 3 Short Eye Animations
++ End Of Section Challenge
++ 3 Short Eye Animations
++ Exported As FBX
 ### Section 2 Wrap Up
-### Pose Mode And Rest Mode
 
-***Future Lecture/ In another section?
 
+***Future Lectures / In another section? / Don't make Sense Here
+### ### Pose Mode And Rest Mode
 ### Coordinate systems
 ### Advanced Linked Selection
-### Fun With Selections and Mat
+### Fun With Selections and Materials
 + Checker select
 + Inverting a selection
