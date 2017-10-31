@@ -1,6 +1,6 @@
 fileFormatVersion: 2
-guid: fced79945c8b2e5429d6d3597853d221
-timeCreated: 1509490403
+guid: b65e1f41c8e3af84da1d99cf3bf2cba8
+timeCreated: 1509489790
 licenseType: Free
 ModelImporter:
   serializedVersion: 21
@@ -11,72 +11,54 @@ ModelImporter:
     100006: Camera
     100008: Eye Single Empty
     100010: Eye.L
-    100012: Eye.L 1
-    100014: Eye.L.Track
-    100016: Eye.L.Track_end
-    100018: Eye.L_end
+    100012: Eye.L.BOne
+    100014: Eye.L.BOne_end
+    100016: Eye.L.Track
+    100018: Eye.L.Track_end
     100020: Eye.R
-    100022: Eye.R 1
-    100024: Eye.R.Track
-    100026: Eye.R.Track_end
-    100028: Eye.R_end
+    100022: Eye.R.Bone
+    100024: Eye.R.Bone_end
+    100026: Eye.R.Track
+    100028: Eye.R.Track_end
     100030: Eyes Both Empty
     100032: Head
-    100034: Head 1
+    100034: Head.Bone
     100036: Lamp
-    100038: Eye.L.Bone
-    100040: Eye.L.Bone_end
-    100042: Eye.R.Bone
-    100044: Eye.R.Bone_end
-    100046: HeadBone
-    100048: Eye.L.BOne
-    100050: Eye.L.BOne_end
-    100052: Head.Bone
     400000: //RootNode
     400002: Armature
     400004: Both Eyes Track
     400006: Camera
     400008: Eye Single Empty
     400010: Eye.L
-    400012: Eye.L 1
-    400014: Eye.L.Track
-    400016: Eye.L.Track_end
-    400018: Eye.L_end
+    400012: Eye.L.BOne
+    400014: Eye.L.BOne_end
+    400016: Eye.L.Track
+    400018: Eye.L.Track_end
     400020: Eye.R
-    400022: Eye.R 1
-    400024: Eye.R.Track
-    400026: Eye.R.Track_end
-    400028: Eye.R_end
+    400022: Eye.R.Bone
+    400024: Eye.R.Bone_end
+    400026: Eye.R.Track
+    400028: Eye.R.Track_end
     400030: Eyes Both Empty
     400032: Head
-    400034: Head 1
+    400034: Head.Bone
     400036: Lamp
-    400038: Eye.L.Bone
-    400040: Eye.L.Bone_end
-    400042: Eye.R.Bone
-    400044: Eye.R.Bone_end
-    400046: HeadBone
-    400048: Eye.L.BOne
-    400050: Eye.L.BOne_end
-    400052: Head.Bone
     2000000: Camera
-    2300000: Eye.L 1
-    2300002: Eye.R 1
-    2300004: Head 1
-    2300006: Eye.L
-    2300008: Eye.R
-    2300010: Head
-    3300000: Eye.L 1
-    3300002: Eye.R 1
-    3300004: Head 1
-    3300006: Eye.L
-    3300008: Eye.R
-    3300010: Head
+    2300000: Eye.L
+    2300002: Eye.R
+    2300004: Head
+    3300000: Eye.L
+    3300002: Eye.R
+    3300004: Head
     4300000: Head
     4300002: Eye.R
     4300004: Eye.L
-    7400000: Armature|Look Around
-    7400002: Armature|Look Crazy
+    7400000: Armature|ArmatureAction
+    7400002: Armature|Funny Eyes
+    7400004: Armature|Look Around
+    7400006: Armature|Look Crazy
+    7400008: Eyes Both Empty|Funny Eyes
+    7400010: Armature|Funny_Eyes
     9500000: //RootNode
     10800000: Lamp
   materials:

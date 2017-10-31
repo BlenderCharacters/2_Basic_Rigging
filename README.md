@@ -155,18 +155,7 @@ Here are the lectures of the course for this section...
 ### 24 Exporting From Blender For Unreal
 + Naming issues prevent Unreal from opening our file
 
-
-### EOSC 3 Short Eye Animations
+### 25 End Of Section 2 Challenge
 + End Of Section Challenge
 + 3 Short Eye Animations
-+ Exported As FBX
-### Section 2 Wrap Up
-
-
-***Future Lectures / In another section? / Don't make Sense Here
-### ### Pose Mode And Rest Mode
-### Coordinate systems
-### Advanced Linked Selection
-### Fun With Selections and Materials
-+ Checker select
-+ Inverting a selection
++ Exported As FBX and test!
