@@ -152,7 +152,7 @@ Here are the lectures of the course for this section...
 + FBX can export material name and assignment
 + FBX can export armature bone data and mesh weighting
 
-### Exporting From Blender For Unreal
+### 24 Exporting From Blender For Unreal
 + Naming issues prevent Unreal from opening our file
 
 
