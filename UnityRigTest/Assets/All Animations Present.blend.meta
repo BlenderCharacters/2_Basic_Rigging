@@ -1,33 +1,42 @@
 fileFormatVersion: 2
-guid: a81819d48e8e13e43a6abe2e5e40dfa6
-timeCreated: 1509360212
+guid: 611396eab21335941ba2526996c3ea95
+timeCreated: 1509461794
 licenseType: Free
 ModelImporter:
   serializedVersion: 21
   fileIDToRecycleName:
     100000: Armature
-    100002: Bone
-    100004: //RootNode
-    100006: Eye_L
-    100008: Eye_L_0
-    100010: Eye_R
-    100012: Eye_R_0
-    100014: Head
-    100016: Head_0
+    100002: //RootNode
+    100004: Empty
+    100006: Empty_001
+    100008: Eye_L
+    100010: Eye_L_Bone
+    100012: Eye_L_Track
+    100014: Eye_R
+    100016: Eye_R_Bone
+    100018: Eye_R_Track
+    100020: Eye_Track
+    100022: Head
+    100024: HeadBone
     400000: Armature
-    400002: Bone
-    400004: //RootNode
-    400006: Eye_L
-    400008: Eye_L_0
-    400010: Eye_R
-    400012: Eye_R_0
-    400014: Head
-    400016: Head_0
+    400002: //RootNode
+    400004: Empty
+    400006: Empty_001
+    400008: Eye_L
+    400010: Eye_L_Bone
+    400012: Eye_L_Track
+    400014: Eye_R
+    400016: Eye_R_Bone
+    400018: Eye_R_Track
+    400020: Eye_Track
+    400022: Head
+    400024: HeadBone
     4300000: Head
     4300002: Eye_L
     4300004: Eye_R
     7400000: Default Take
-    7400002: ArmatureAction
+    7400002: Crazy_Eyes
+    7400004: Looking_Around
     9500000: //RootNode
     13700000: Eye_L
     13700002: Eye_R

@@ -132,12 +132,8 @@ Here are the lectures of the course for this section...
 + Control points and handles
 + Changing handle types
 
-
-
-### Using Unity's Built In Blender Reader
-+ Rapid Feedback
-+ Refreshes after each Blender save and switch back focus
-+ Recommended for testing and individual small projects
+### 21 Creating Multiple Animations
++ Dope Sheet and Action Editor
 
 ### Coordinate systems
 ### Exporting an FBX For Unity

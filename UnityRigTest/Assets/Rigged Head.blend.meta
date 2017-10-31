@@ -1,17 +1,40 @@
 fileFormatVersion: 2
-guid: 0efaf7e4617c31a419dbfe7e6cceca22
-timeCreated: 1509359047
+guid: c3b10b7e09f52c84cba0e969bd7ff5d4
+timeCreated: 1509461797
 licenseType: Free
 ModelImporter:
   serializedVersion: 21
   fileIDToRecycleName:
     100000: //RootNode
+    100002: Armature
+    100004: Eye_L
+    100006: Eye_L_0
+    100008: Eye_L_Track
+    100010: Eye_R
+    100012: Eye_R_0
+    100014: Eye_R_Tack
+    100016: Eyes_Track
+    100018: Head
+    100020: Head_0
     400000: //RootNode
-    2300000: //RootNode
-    3300000: //RootNode
-    4300000: Cube
+    400002: Armature
+    400004: Eye_L
+    400006: Eye_L_0
+    400008: Eye_L_Track
+    400010: Eye_R
+    400012: Eye_R_0
+    400014: Eye_R_Tack
+    400016: Eyes_Track
+    400018: Head
+    400020: Head_0
+    4300000: Head
+    4300002: Eye_L
+    4300004: Eye_R
     7400000: Default Take
     9500000: //RootNode
+    13700000: Eye_L
+    13700002: Eye_R
+    13700004: Head
   materials:
     importMaterials: 1
     materialName: 0
