@@ -133,9 +133,14 @@ Here are the lectures of the course for this section...
 + Changing handle types
 
 ### 21 Creating Multiple Animations
-+ On one timetime and Tag
++ On one timeline and Tag
 + Multiple actions
 + Offsetting the animation to ensure no pausing when looping.
+
+### 22 Making Actions Visible Outside Blender
++ We will have to do a little re rigging
++ Learn how to make a bone look like another options
++ Make a rig that will work externally in multiple engines
 
 
 ### Exporting an FBX For Unity

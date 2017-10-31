@@ -1,32 +1,57 @@
 fileFormatVersion: 2
-guid: 5fe558d3a90ff4143805370c9cef2c23
-timeCreated: 1505844324
+guid: 71e01404fbab5534ca8ddaa86e543bcf
+timeCreated: 1509479868
 licenseType: Free
 ModelImporter:
   serializedVersion: 21
   fileIDToRecycleName:
-    100000: Left Eye
-    100002: Right Eye
-    100004: //RootNode
-    400000: Left Eye
-    400002: Right Eye
-    400004: //RootNode
-    2300000: Left Eye
-    2300002: Right Eye
-    2300004: //RootNode
-    3300000: Left Eye
-    3300002: Right Eye
-    3300004: //RootNode
-    4300000: head
-    4300002: Right Eye
-    4300004: Left Eye
-    7400000: Right Eye|Action
-    7400002: Right Eye|FocusAction
-    7400004: Right Eye|Left Eye
-    7400006: Left Eye|Action
-    7400008: Left Eye|FocusAction
-    7400010: Left Eye|Left Eye
+    100000: //RootNode
+    100002: Armature
+    100004: Eye_L
+    100006: Eye_L_0
+    100008: Eye_L_Track
+    100010: Eye_R
+    100012: Eye_R_0
+    100014: Eye_R_Tack
+    100016: Eyes_Track
+    100018: Head
+    100020: Head_0
+    100022: Both_Eyes_Tracking
+    100024: Eye_R_Track
+    100026: Eye_Track_Empty
+    100028: Eyes_Track_Empty
+    100030: Both_Eyes_Track
+    100032: Eye_Single_Empty
+    100034: Eyes_Both_Empty
+    400000: //RootNode
+    400002: Armature
+    400004: Eye_L
+    400006: Eye_L_0
+    400008: Eye_L_Track
+    400010: Eye_R
+    400012: Eye_R_0
+    400014: Eye_R_Tack
+    400016: Eyes_Track
+    400018: Head
+    400020: Head_0
+    400022: Both_Eyes_Tracking
+    400024: Eye_R_Track
+    400026: Eye_Track_Empty
+    400028: Eyes_Track_Empty
+    400030: Both_Eyes_Track
+    400032: Eye_Single_Empty
+    400034: Eyes_Both_Empty
+    4300000: Head
+    4300002: Eye_L
+    4300004: Eye_R
+    7400000: Default Take
+    7400002: Eyes_Crazy
+    7400004: Look_Around
+    7400006: Look_Crazy
     9500000: //RootNode
+    13700000: Eye_L
+    13700002: Eye_R
+    13700004: Head
   materials:
     importMaterials: 1
     materialName: 0
