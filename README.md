@@ -132,6 +132,7 @@ Here are the lectures of the course for this section...
 + Overview of the graph editor
 + Control points and handles
 + Changing handle types
+(Fixed Errors 14/11/2017)
 
 ### 21 Creating Multiple Animations
 + On one timeline and Tag
