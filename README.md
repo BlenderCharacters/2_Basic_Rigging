@@ -143,6 +143,7 @@ Here are the lectures of the course for this section...
 + We will have to do a little re rigging
 + Learn how to make a bone look like another options
 + Make a rig that will work externally in multiple engines
+(Updated 14/11/2017)
 
 ### 23 Exporting From Blender For Unity
 + Various options for exporting
