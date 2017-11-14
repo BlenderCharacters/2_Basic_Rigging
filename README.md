@@ -107,6 +107,7 @@ Here are the lectures of the course for this section...
 ### 16 The Track To Constraint
 + Flesh out the rig controlling the eye bones
 + Use the track to constraint
++ Updated (14/11/2017) 
 
 ### 17 Advanced Layout Controls
 + Collapsing windows
