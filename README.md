@@ -107,6 +107,7 @@ Here are the lectures of the course for this section...
 ### 16 The Track To Constraint
 + Flesh out the rig controlling the eye bones
 + Use the track to constraint
++ Updated (14/11/2017) 
 
 ### 17 Advanced Layout Controls
 + Collapsing windows
@@ -131,6 +132,7 @@ Here are the lectures of the course for this section...
 + Overview of the graph editor
 + Control points and handles
 + Changing handle types
+(Fixed Errors 14/11/2017)
 
 ### 21 Creating Multiple Animations
 + On one timeline and Tag
@@ -141,6 +143,7 @@ Here are the lectures of the course for this section...
 + We will have to do a little re rigging
 + Learn how to make a bone look like another options
 + Make a rig that will work externally in multiple engines
+(Updated 14/11/2017)
 
 ### 23 Exporting From Blender For Unity
 + Various options for exporting
