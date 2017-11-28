@@ -139,6 +139,7 @@ Here are the lectures of the course for this section...
 + On one timeline and Tag
 + Multiple actions
 + Offsetting the animation to ensure no pausing when looping.
++ (Updated 28/11/2017)
 
 ### 22 Making Actions Visible Outside Blender
 + We will have to do a little re rigging
