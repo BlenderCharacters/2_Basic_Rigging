@@ -63,6 +63,7 @@ Here are the lectures of the course for this section...
 + Take control of how object transform
 + Understand the properties of an object are the object origin's properties
 + The origin affects physics calculations
++ (Updated 27/11/2017)
 
 ### 10 Transforms and Applying Them
 + Quick Tip
