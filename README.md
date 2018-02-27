@@ -86,6 +86,10 @@ Here are the lectures of the course for this section...
 + Placeholders
 + Used for rigging controls and other properties
 
+### 12a Grouping Objects
++ How to use groups
++ Great for moving and organising you Blend files
+
 ### 13 What Is A Rig?
 + A character model on its own can't be animated
 + A series of controls external to the model need to be created
@@ -108,7 +112,7 @@ Here are the lectures of the course for this section...
 ### 16 The Track To Constraint
 + Flesh out the rig controlling the eye bones
 + Use the track to constraint
-+ Updated (14/11/2017) 
++ Updated (14/11/2017)
 
 ### 17 Advanced Layout Controls
 + Collapsing windows
