@@ -114,6 +114,10 @@ Here are the lectures of the course for this section...
 + Use the track to constraint
 + Updated (14/11/2017)
 
+### 16a Trouble Shooting Rigs Part 1
++ Check the roll of your bones
++ Checking our bone constraints
+
 ### 17 Advanced Layout Controls
 + Collapsing windows
 + Create new area windows
