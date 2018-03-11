@@ -173,6 +173,10 @@ Here are the lectures of the course for this section...
 + 3 Short Eye Animations
 + Exported As FBX and test!
 
+### 25a Solving Potential UE4 Issues
++ UE4 can be funny at times
++ Troubleshooting animations not appearing as you would expect
+
 ### 26 Section 2 Wrap Up
 + Wow lots covered
 + Looking forward to seeing your work!
